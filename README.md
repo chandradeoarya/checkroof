@@ -31,12 +31,26 @@ Project Checkroof, inspired by Project [Sunroof](https://www.google.com/get/sunr
 
 While initially launching only in the cities of  [Hyderabad]([https://en.wikipedia.org/wiki/Hyderabad](https://en.wikipedia.org/wiki/Hyderabad) "Hyderabad"),  [Bangalore]([https://en.wikipedia.org/wiki/Bangalore](https://en.wikipedia.org/wiki/Bangalore) "Bangalore"), and  [Chennai](https://en.wikipedia.org/wiki/Chennai "Chennai"), the project is planned eventually to expand nationally or even globally, depending upon the project's success in its launch areas.
 
+<h3 align="center">
+	Working principal
+</h3>
+<h5 align="center">
+	Search --> Research --> Shop
+</h5>
+<p align="center">
+	<img src="https://github.com/chandradeoarya/checkroof/raw/master/img/how-it-works.png" width="700">
+</p>
+
 
 # Core Projects
 
 Project [Checkroof]([https://checkroof.org/](https://checkroof.org/)) is combination of three projects Rainroof, Sunroof and Coolroof. Together these three core projects make final project [Checkroof.org]([https://checkroof.org/](https://checkroof.org/))
 
 ## [Rainroof](https://github.com/chandradeoarya/rainroof/blob/master/README.md)
+
+<p align="center">
+	<img src="https://github.com/chandradeoarya/checkroof/raw/master/img/search-page.png" width="700">
+</p>
 
 All major cities in India and developing countries are facing acute shortage of water with Chennai being the worst this year. Annually India gets over 468 billion liters of rainwater which if potentially harvested can meet 40% of total demands. But due to lack of government initiatives and harvesting mechanism in place, no rainwater is conserved for recharging ground water. 
 
