@@ -2,7 +2,7 @@
 	<img
 		width="300"
 		alt="Project Checkroof"
-		src="https://github.com/chandradeoarya/checkroofroof/raw/master/img/checkroof.png">
+		src="https://github.com/chandradeoarya/checkroof/raw/master/img/checkroof.png">
 </h1>
 
 <h3 align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/chandradeoarya/checkroofroof/raw/master/img/checkroof.gif" width="700">
+	<img src="https://github.com/chandradeoarya/checkroof/raw/master/img/checkroof.gif" width="700">
 </p>
 
 ## Overview
@@ -46,7 +46,7 @@ In spite of huge interest from public, there is no one single platform where one
 
 
 <p align="center">
-	<img src="https://github.com/chandradeoarya/checkroofroof/raw/master/img/sunroof-portal.png" width="700">
+	<img src="https://github.com/chandradeoarya/checkroof/raw/master/img/sunroof-portal.png" width="700">
 </p>
 
 We are building one stop platform to help you discover solar potential of your house. It asks you for your monthly electricity bill and gives you the recommended solar installation size to meet your energy needs. It also tells your the up-front cost of installations or suggest leasing or renting options. It lists the best state and central governmental incentives for you to choose. 
@@ -56,14 +56,14 @@ We have also partnered with certified solar installation vendors and list their 
 ## [Coolroof](https://github.com/chandradeoarya/coolroof/blob/master/README.md)
 
 <p align="center">
-	<img src="https://github.com/chandradeoarya/checkroofroof/raw/master/img/uhi.jpeg" width="550">
+	<img src="https://github.com/chandradeoarya/checkroof/raw/master/img/uhi.jpeg" width="550">
 </p>
 Air Conditioning inside buildings consume 10% of total global energy over 100,000 TWh (terawatt-hour). On a typical summer day, traditional “dark roofs” absorb significant sunlight – around 100 watts per square foot which increase temperature inside building by 3-7°C which in turn leads to higher use of ACs. If we could just paint or coat the roof with high reflective materials like Titanium Dioxide then it can reflect about 70-80% of infrared rays of sunlight which account for 49% of heat generated.
 <p align="center">
-	<img src="https://github.com/chandradeoarya/checkroofroof/raw/master/img/infrared.png" width="550">
+	<img src="https://github.com/chandradeoarya/checkroof/raw/master/img/infrared.png" width="550">
 </p>
 <p align="center">
-	<img src="https://github.com/chandradeoarya/checkroofroof/raw/master/img/uhi-house.png" width="550">
+	<img src="https://github.com/chandradeoarya/checkroof/raw/master/img/uhi-house.png" width="550">
 </p>
 Project Checkroof helps you discover the coolroof potential of your house with just few clicks. It also provides you list of vendors who can do white painting or coolroof coating on your roof.
 
